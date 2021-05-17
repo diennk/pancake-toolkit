@@ -1,14 +1,14 @@
 {
-  "name": "@pancakeswap/uikit",
+  "name": "@mytoken/uikit",
   "version": "0.32.3",
-  "description": "Set of UI components for pancake projects",
+  "description": "Set of UI components for mytoken projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit",
+  "repository": "https://github.com/zerotechjsc/mytoken-toolkit/tree/master/packages/mytoken-uikit",
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",
