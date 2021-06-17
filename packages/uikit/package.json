@@ -1,5 +1,5 @@
 {
-  "name": "@mytoken/uikit",
+  "name": "@smartui/uikit",
   "version": "0.32.3",
   "description": "Set of UI components for mytoken projects",
   "main": "dist/index.cjs.js",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/zerotechjsc/mytoken-toolkit/tree/master/packages/mytoken-uikit",
+  "repository": "",
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",
